@@ -1,0 +1,3 @@
+Nạp chồng phương thức:
+
+Trong kế thừa, hàm khởi tạo của lớp cha luôn được gọi trước hàm khởi tạo của lớp con 
